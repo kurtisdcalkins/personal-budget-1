@@ -1,0 +1,19 @@
+[33mcommit f2e6004461f334616954d2950241a65ffcd16dee[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Calkins Kurtis <kurtiscalkins@yahoo.com>
+Date:   Fri Sep 16 12:53:40 2022 -0600
+
+    Revert "Completed basic functionality"
+    
+    This reverts commit 79c50cf1543ec700d690be868181edde0f4dea4a.
+
+[33mcommit 79c50cf1543ec700d690be868181edde0f4dea4a[m
+Author: Calkins Kurtis <kurtiscalkins@yahoo.com>
+Date:   Fri Sep 16 12:48:27 2022 -0600
+
+    Completed basic functionality
+
+[33mcommit 9c57b1c74efb17d4ed80d2a732a865386ace8e65[m
+Author: Calkins Kurtis <kurtiscalkins@yahoo.com>
+Date:   Thu Sep 15 16:49:50 2022 -0600
+
+    Initial commit
