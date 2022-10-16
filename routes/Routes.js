@@ -10,6 +10,7 @@ const {
   updateEnvelope,
   deleteEnvelope,
   transferMoney,
+  postTransaction,
 } = require("../controllers/Contollers");
 
 router.route("/").get(getAllEnvelopes).post(postNewEnvelope);
@@ -21,4 +22,6 @@ router
   .delete(deleteEnvelope);
 
 router.route("/transfer/:to/:from").post(transferMoney);
+
+router.route("/transaction/:id").post(postTransaction);
 module.exports = router;
